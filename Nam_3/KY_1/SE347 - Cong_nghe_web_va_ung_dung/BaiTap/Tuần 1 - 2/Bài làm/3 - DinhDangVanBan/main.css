@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    margin-top: 16px;
+}
+
+p {
+    margin: 0;
+}
+
+.footer {
+    height: auto; 
+    width: 800px; 
+    background-color: #ccc;
+    margin-top: 16px; 
+    text-indent: 60px;
+}
+
+.footer p {
+    color: blue;
+    padding: 10px 0;
+}

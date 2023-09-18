@@ -1,0 +1,49 @@
+.header {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px 0;
+    border: 3px solid #1dfa12;
+    margin-top: 20px;
+}
+p {
+    margin: 0;
+}
+.item_1 {
+    display: flex;
+    margin-top: 20px;
+}
+.item_1 p {
+    margin-right: 10px;
+}
+.item_1 p:first-letter {
+    color: #1dfa12;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.item_2 {
+    margin-top: -54px;
+}
+
+.item_2 p {
+    text-indent: 16px;
+}
+
+.item_3 {
+    text-align: right;
+    color: #fff;
+    font-size: 22px;
+    background-color: #1dfa12;
+    margin: 16px 0;
+    padding: 2px 0;
+    font-weight: bold;
+}
+
+.item_4 {
+    display: flex;
+    margin-top: 16px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #ff6200;
+}

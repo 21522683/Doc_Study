@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    margin: 40px 160px 0 160px;
+}
+
+.content {
+    text-align: left;
+    margin: 40px 160px 0 160px;
+}
+.content p {
+    color: white;
+    text-align: left;
+    text-indent: 100px
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+.bg {
+    /* The image used */
+    background-image: url(../images/hoang-hon-phu-quoc.jpg);
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

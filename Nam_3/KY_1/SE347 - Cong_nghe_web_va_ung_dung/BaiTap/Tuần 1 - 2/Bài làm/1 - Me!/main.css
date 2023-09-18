@@ -1,0 +1,33 @@
+.title-header {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ff2cc0;
+    padding: 15px 0;
+    margin: 10px;
+    background-color: rgba(255, 169, 215, 0.5);
+}
+
+.body-content {
+    margin: 20px 10px 10px 10px;
+    padding: 10px 0;
+    background-color: rgba(253, 255, 154, 0.5);
+    text-align: center;
+}
+p {
+    margin: 0;
+}
+.para_1 {
+    color: blue;
+    font-style: italic;
+}
+
+.para_2 {
+    color: rgb(91, 0, 53);
+    font-style: italic;
+}
+
+.para_3 {
+    color: #00aa1c;
+    font-style: italic;
+}
